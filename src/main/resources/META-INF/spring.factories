@@ -1,0 +1,7 @@
+
+
+#Auto Config
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.ly.springbootTest.config.HelloWorldAutoConfiguration,\
+com.ly.springbootTest.config.HelloWorldConditionalAutoConfiguration
+
